@@ -2,7 +2,7 @@
 
 ## Github 博客配置
 ### Github个人主页配置
-配置完成之后可以使用machixian.github.com访问自己的首页
+配置完成之后可以使用[machixian.github.com](http://machixian.github.com)访问自己的首页
 
 1. 注册一个Github账号
 2. 建立一个Github项目，名字为machixian.github.com，这里的machixian一定要和注册的Github账号的名字一样
